@@ -1,0 +1,29 @@
+Ermes David Galvan Abonza
+-State Management Proficiency: I acquired a deep understanding of stateful widgets and their significance in orchestrating dynamic content and user interactions within the application.
+-Customizing User Interface: I explored techniques for tailoring the visual aspects of the UI, encompassing the ability to modify themes and adjust widget styles to create a seamless and engaging user experience.
+-Efficient Navigation Control: I mastered the art of managing navigation between diverse screens, adeptly transferring data between them, and overseeing the overall flow of the application.
+-Effective Version Control: GitHub provides a robust platform for version control, allowing me to precisely track changes in my code over time.
+-Simplified Collaboration: I learned to use branches and pull requests on GitHub, facilitating collaboration with other developers on new features, bug fixes, and enhancements.
+
+Carlos Acosta Fletes
+*Understanding Widget Hierarchy: I learned how widgets are organized in a hierarchical structure, which helps in building complex UI layouts efficiently.
+*State Management: I grasped the concept of stateful widgets and their role in managing dynamic content and user interactions within the app.
+*User Interface Customization: I discovered how to customize the UI appearance, including changing themes and altering widget styles for a cohesive user experience.
+*Navigation Handling: I learned to handle navigation between different screens, passing data between them, and managing the app's flow.
+*Error Handling and Dialogs: I understood how to implement error handling mechanisms and display informative dialogs to users, enhancing the overall user interaction and feedback.
+
+
+Johan Yahir Garcia Lino
+1. I learned how to put an image in the application.
+2. I learned how to use another class to exchange data between them.
+3. I learned how to send data to be used in another view.
+4. I learned how to use the code to optimize the final result.
+5. I learned to work in a team to develop the activity.
+
+
+Alfonzo Espiritu Malfavon 
+Handling Forms and Text Fields: The code demonstrates how to create simple forms in Flutter using the TextField widget and how to handle user-entered data using controllers (TextEditingController) and basic validation.
+Navigation Handling: The example shows how to navigate between different screens in Flutter using Navigator.push. In this case, it passes information from one screen to another as arguments.
+Custom Dialogs: You will learn how to create custom dialogs using AlertDialog and how to display error or success messages to the user.
+Handling Button Events and Actions: The code demonstrates how to handle button events and execute specific actions when pressed, such as validating the login or exiting the application.
+UI Styling and Design: Through the code, you gain experience in customizing the user interface, including setting text styles, colors, and widget layout, which is crucial for creating an appealing user experience.
